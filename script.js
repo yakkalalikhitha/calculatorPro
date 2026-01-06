@@ -1,3 +1,4 @@
+//hello how r u R u fine let me know if u have any queries dont feel hesitate just feel free to contact
 const display = document.getElementById("display");
 
 function append(value) {
